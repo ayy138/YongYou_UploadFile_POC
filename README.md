@@ -1,0 +1,2 @@
+# YongYou_UploadFile_POC
+用友NC uploadControluploadFile 文件上传致RCE
